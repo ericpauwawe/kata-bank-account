@@ -32,7 +32,7 @@ This is a Spring Boot application for managing bank accounts. It provides RESTfu
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/ericpauwawe/kata-bank-account.git
-   cd bank-account
+   cd kata-bank-account
 
 2. Build the project:
    ```bash

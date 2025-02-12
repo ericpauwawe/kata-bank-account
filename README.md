@@ -38,20 +38,16 @@ Insert
 
 Build the project:
 mvn clean install
-Copy
-Insert
+
 
 Run the application:
 mvn spring-boot:run
-Copy
-Insert
 
 Accessing the API
 Once the application is running, you can access the API documentation at:
 
 http://localhost:9090/swagger-ui.html
-Copy
-Insert
+
 
 
 
@@ -59,11 +55,3 @@ Running Tests
 To run the test suite, execute:
 
 mvn test
-Copy
-Insert
-
-Contributing
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.

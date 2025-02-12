@@ -33,25 +33,22 @@ This is a Spring Boot application for managing bank accounts. It provides RESTfu
    ```bash
    git clone https://github.com/ericpauwawe/kata-bank-account.git
    cd bank-account
-Copy
-Insert
 
-Build the project:
-mvn clean install
+2. Build the project:
+   ```bash
+   mvn clean install
 
-
-Run the application:
-mvn spring-boot:run
-
-Accessing the API
+3. Run the application:
+   ```bash
+   mvn spring-boot:run
+   
+ 
+4. Accessing the API
 Once the application is running, you can access the API documentation at:
-
 http://localhost:9090/swagger-ui.html
 
 
-
-
-Running Tests
+5. Running Tests
 To run the test suite, execute:
-
-mvn test
+   ```bash
+   mvn test
